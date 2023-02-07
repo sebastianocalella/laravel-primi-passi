@@ -16,7 +16,7 @@
             </ul>
         </header>
         <h1>
-            My first Laravel project
+            Here we got your account info and managment
         </h1>
     </body>
 

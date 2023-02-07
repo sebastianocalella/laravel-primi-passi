@@ -16,7 +16,7 @@
             </ul>
         </header>
         <h1>
-            My first Laravel project
+            Here we got our main content
         </h1>
     </body>
 
